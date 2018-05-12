@@ -1,0 +1,27 @@
+_repo: A-Chronological-Table-of-the-Catholic-Primates-of-IrelandSees-of-Armagh-Dublin-Cashell-and-Tu__38900
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Murphy, John
+    gutenberg_agent_id: '39702'
+    url: http://www.gutenberg.org/2009/agents/39702
+description: ''
+gutenberg_issued: '2012-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38900'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catholic Church -- Ireland -- Clergy -- History'
+- !lcc 'BX'
+- !lcc 'DA'
+title: "A Chronological Table of the Catholic Primates of Ireland\r\nWith the Years\
+  \ in Which They Succeeded to the Metropolitan Sees of Armagh, Dublin, Cashell and\
+  \ Tuam"
+url: http://www.gutenberg.org/ebooks/38900
