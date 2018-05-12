@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '39702'
     url: http://www.gutenberg.org/2009/agents/39702
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38900#A-Chronological-Table-of-the-Catholic-Primates-of-IrelandSees-of-Armagh-Dublin-Cashell-and-Tu_
 gutenberg_issued: '2012-02-16'
 gutenberg_type: Text
 identifiers:
